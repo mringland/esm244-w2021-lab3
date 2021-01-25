@@ -1,0 +1,24 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Imbue&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Imbue";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Dancing+Script";
+  font-size: 30px;
+  color: white;
+}
+
+body {
+  font-family: "Imbue";
+  font-size: 18px;
+  color: teal;
+  background-color: blue;
+}
